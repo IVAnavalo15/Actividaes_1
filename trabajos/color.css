@@ -1,0 +1,53 @@
+body {
+    
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+
+}
+footer{
+
+    background-color: rgb(160, 160, 160);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 30px;
+}
+h1{
+    
+    background-color: rgba(94, 206, 226, 0.76);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 40px;
+    line-height: 40px; 
+    border-radius: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    
+    
+}
+h2{
+
+    background-color: rgba(157, 151, 235, 0.452);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 30px;
+    line-height: 30px; 
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+
+}
+h3{
+    background-color: rgba(253, 24, 24, 0.534);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 30px;
+    line-height: 30px; 
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
